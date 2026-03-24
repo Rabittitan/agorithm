@@ -1,18 +1,23 @@
 /*
--  Tìm độ dài của chuỗi con dài nhất sao cho không có ký tự nào bị lặp lại.
+Bài toán:
+- Tìm độ dài chuỗi con dài nhất không có ký tự lặp.
 
-In: là 1 chuổi kí tự bao gồm các kí tự đặc biệt.
-out:  là số lương kí tự lớn nhất không có kí tự bị lặp
+Ý tưởng:
 
-slution dùng 2 con trỏ left right để chạy hết cái string sử dụng sliding window vì nó là các giá trị liền kề nhau.
+1. O(n^2):
+- Dùng 2 con trỏ, xét mọi chuỗi con.
+- Nếu trùng → tăng left từng bước (left++).
 
-mô tả ban đâu giá trị đầu tiên left right bằng nhau sau đó right tăng lên kiểm tra xem có kí tự nào bị trùng không(while) nếu không tăng tiếp và update maxlen nếu mà bị trùng thì left++ tăng lên right tăng tiếp và lại tiếp tục kiểm tra rồi update tương tự. (O(n2))
+2. O(n):
+- Sliding window + hashmap lưu vị trí xuất hiện gần nhất.
+- Nếu trùng → nhảy:
+      left = lastSeen[c] + 1
+- Cập nhật:
+      maxLen = max(maxLen, right - left + 1)
 
-
-slution update:
-
-dùng hashmap để lưu lấy giá trị trc  khi kiểm tra hỏi lại hashmap có kí tự không nếu có thì nó ở vị trí nào rồi đưa left với vị trí lastseen + 1; (O(n))
-
+Độ phức tạp:
+- Cách 1: O(n^2)
+- Cách 2: O(n)
 */
 
 
