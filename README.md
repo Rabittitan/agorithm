@@ -19,4 +19,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0414-third-maximum-number](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0414-third-maximum-number](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 <!---LeetCode Topics End-->
