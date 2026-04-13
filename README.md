@@ -19,11 +19,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
+| [0704-binary-search](https://github.com/Rabittitan/agorithm/tree/main/0704-binary-search/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
+| [0704-binary-search](https://github.com/Rabittitan/agorithm/tree/main/0704-binary-search/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
