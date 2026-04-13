@@ -23,8 +23,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
+| [0561-array-partition](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
+| [0561-array-partition](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
