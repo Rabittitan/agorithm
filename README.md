@@ -51,4 +51,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1388-pizza-with-3n-slices](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/1388-pizza-with-3n-slices/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
