@@ -7,6 +7,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [1544-make-the-string-great](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
