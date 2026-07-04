@@ -36,6 +36,7 @@
 | [0875-koko-eating-bananas](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1388-pizza-with-3n-slices](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/1388-pizza-with-3n-slices/) | Hard |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rabittitan/agorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
