@@ -10,6 +10,7 @@ public:
         for (char c : t) {
             result ^= c;
         }
+        
 
         return result;
     }
