@@ -7,7 +7,6 @@ public:
 
         int carry = 0;
 
-
         while (l1 != nullptr || l2 != nullptr || carry) {
 
             int sum = carry;
@@ -16,7 +15,6 @@ public:
                 sum += l1->val;
                 l1 = l1->next;
             }
-            
 
             if (l2 != nullptr) {
                 sum += l2->val;
@@ -28,7 +26,6 @@ public:
             tail->next = new ListNode(sum % 10);
             tail = tail->next;
         }
-
         return dummy->next;
     }
 };
