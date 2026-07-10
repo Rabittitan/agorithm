@@ -1,17 +1,6 @@
 class Solution {
 public:
     string simplifyPath(string path) {
-        // Stack <string>  result;
-        // string token ="";
-
-        // for(int i = 0; i < path.size(); i++){
-            
-        //     if(path[i] == '/' ){
-            
-        //         results = '/' + token + results;
-        //     }
-        // }
-
         stack<string> st;
         string cur, ans;
         stringstream ss(path);
