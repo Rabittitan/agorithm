@@ -1,7 +1,7 @@
 class Solution {
 public:
     string simplifyPath(string path) {
-        stack <string>  st;
+        vector <string>  st;
         string token ="";
         string result ="";
         
@@ -9,9 +9,9 @@ public:
             //tach mang
             if(path[i] == '/' ){
                 if(token == "..") {
-                    if(!st.empty()) st.pop();
+                    if(!st.empty()) st.pop_back();
                 }else if( token != "" && token != "."  ){
-                    st.push(token); 
+                    st.push_back(token); 
                 }
 
                 token = "";
@@ -22,18 +22,18 @@ public:
         
 
         if(token == ".."){
-            if(!st.empty()) st.pop();
+            if(!st.empty()) st.pop_back();
 
         } else if( token != "" && token != "."){
-            st.push(token);
+            st.push_back(token);
 
         }
 
-        while(!st.empty()){
-            result = '/' + st.top() + result;
-            st.pop();
+        for(int i= 0; i < st.size() ;i++){
+            result += '/' + st[i];
+            //st.pop_back();
         }
 
-       return result.empty() ? "/" : result;
+       return !result.empty() ? result :  "/";
     }
 };
