@@ -31,7 +31,6 @@ public:
 
         for(int i= 0; i < st.size() ;i++){
             result += '/' + st[i];
-            //st.pop_back();
         }
 
        return !result.empty() ? result :  "/";
