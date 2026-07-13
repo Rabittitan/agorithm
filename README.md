@@ -24,6 +24,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0704-binary-search](https://github.com/Rabittitan/agorithm/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
@@ -33,6 +34,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0414-third-maximum-number](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
 | [0704-binary-search](https://github.com/Rabittitan/agorithm/tree/main/0704-binary-search/) | Easy |
@@ -93,6 +95,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
