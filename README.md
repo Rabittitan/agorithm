@@ -141,4 +141,8 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
