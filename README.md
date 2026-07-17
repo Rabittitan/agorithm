@@ -11,6 +11,7 @@
 | [0389-find-the-difference](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0796-rotate-string](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1388-pizza-with-3n-slices](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/1388-pizza-with-3n-slices/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rabittitan/agorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
