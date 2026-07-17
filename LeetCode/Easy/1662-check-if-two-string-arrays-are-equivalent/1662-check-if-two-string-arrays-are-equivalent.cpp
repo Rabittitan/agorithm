@@ -21,7 +21,6 @@ public:
                 l = 0;
             }
         }
-         
         return i == word1.size() && k == word2.size();
     }
 };
