@@ -97,6 +97,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
