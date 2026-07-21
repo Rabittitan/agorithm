@@ -29,9 +29,9 @@ public:
             prev = second;
             second = nextNode;
         }
+
         ListNode* first = head;
         second = prev;
-
         while (second) {
             ListNode* temp1 = first->next;
             ListNode* temp2 = second->next;
