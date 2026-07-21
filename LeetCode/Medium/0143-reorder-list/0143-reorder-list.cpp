@@ -21,8 +21,8 @@ public:
 
         ListNode* second = slow->next;
         slow->next = nullptr;
-
         ListNode* prev = nullptr;
+        
         while (second) {
             ListNode* nextNode = second->next;
             second->next = prev;
@@ -32,6 +32,7 @@ public:
 
         ListNode* first = head;
         second = prev;
+
         while (second) {
             ListNode* temp1 = first->next;
             ListNode* temp2 = second->next;
