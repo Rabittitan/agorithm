@@ -15,6 +15,7 @@ public:
         return s.substr(start, maxLen);
     }
 
+
 private:
     void expand(string &s, int left, int right, int &start, int &maxLen) {
         while (left >= 0 && right < s.size() && s[left] == s[right]) {
