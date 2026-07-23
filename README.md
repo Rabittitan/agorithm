@@ -6,6 +6,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0389-find-the-difference](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
@@ -74,6 +75,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0542-01-matrix](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0773-sliding-puzzle](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/0773-sliding-puzzle/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/1388-pizza-with-3n-slices/) | Hard |
@@ -130,6 +132,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0143-reorder-list](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
