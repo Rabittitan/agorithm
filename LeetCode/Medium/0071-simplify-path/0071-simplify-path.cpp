@@ -6,7 +6,6 @@ public:
         string result ="";
         
         for(int i = 0; i < path.length(); i++){  
-            //tach mang
             if(path[i] == '/' ){
                 if(token == "..") {
                     if(!st.empty()) st.pop_back();
