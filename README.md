@@ -26,12 +26,14 @@
 | [0009-palindrome-number](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0367-valid-perfect-square](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/Rabittitan/agorithm/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
