@@ -14,6 +14,7 @@
 | [0796-rotate-string](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@
 | [1051-height-checker](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
