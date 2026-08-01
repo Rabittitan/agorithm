@@ -8,6 +8,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
