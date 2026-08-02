@@ -63,6 +63,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1388-pizza-with-3n-slices](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/1388-pizza-with-3n-slices/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rabittitan/agorithm/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Sorting
@@ -110,6 +111,7 @@
 | [0227-basic-calculator-ii](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0385-mini-parser](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0385-mini-parser/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -213,4 +215,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0495-teemo-attacking](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0495-teemo-attacking/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
