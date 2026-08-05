@@ -10,6 +10,7 @@
 | [0006-zigzag-conversion](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
@@ -50,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0200-number-of-islands](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0414-third-maximum-number](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
@@ -222,4 +224,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
