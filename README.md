@@ -110,6 +110,7 @@
 | [0020-valid-parentheses](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0143-reorder-list](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
@@ -144,6 +145,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +209,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0385-mini-parser](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0385-mini-parser/) | Medium |
 ## Backtracking
