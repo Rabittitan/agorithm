@@ -52,6 +52,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0200-number-of-islands](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0414-third-maximum-number](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
@@ -159,6 +160,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0143-reorder-list](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
