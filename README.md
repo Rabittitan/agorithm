@@ -12,6 +12,7 @@
 | [0013-roman-to-integer](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0071-simplify-path](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
 | [0385-mini-parser](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0385-mini-parser/) | Medium |
@@ -23,6 +24,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -161,6 +163,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0143-reorder-list](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -234,4 +237,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
