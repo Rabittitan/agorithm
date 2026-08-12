@@ -128,11 +128,13 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,4 +256,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
