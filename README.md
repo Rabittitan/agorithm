@@ -39,6 +39,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
+| [0486-predict-the-winner](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@
 | [0200-number-of-islands](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
+| [0486-predict-the-winner](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0495-teemo-attacking](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0495-teemo-attacking/) | Easy |
 | [0542-01-matrix](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0561-array-partition](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
@@ -105,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0486-predict-the-winner](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0773-sliding-puzzle](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/0773-sliding-puzzle/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/1388-pizza-with-3n-slices/) | Hard |
@@ -226,6 +229,7 @@
 | [0002-add-two-numbers](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0486-predict-the-winner](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,4 +286,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
