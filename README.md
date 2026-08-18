@@ -65,6 +65,7 @@
 | [0495-teemo-attacking](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0495-teemo-attacking/) | Easy |
 | [0542-01-matrix](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0561-array-partition](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Rabittitan/agorithm/tree/main/0704-binary-search/) | Easy |
 | [0773-sliding-puzzle](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/0773-sliding-puzzle/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
@@ -277,4 +278,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
