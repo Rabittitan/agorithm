@@ -6,6 +6,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0008-string-to-integer-atoi/) | Medium |
@@ -194,6 +195,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
@@ -285,6 +287,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
