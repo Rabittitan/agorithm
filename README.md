@@ -18,6 +18,7 @@
 | [0058-length-of-last-word](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
+| [0383-ransom-note](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0385-mini-parser](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0385-mini-parser/) | Medium |
 | [0389-find-the-difference](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
@@ -104,6 +105,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0561-array-partition](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -203,6 +205,7 @@
 | [0049-group-anagrams](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0383-ransom-note](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
