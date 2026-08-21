@@ -14,6 +14,7 @@
 | [0014-longest-common-prefix](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0227-basic-calculator-ii/) | Medium |
@@ -59,6 +60,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0049-group-anagrams](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0200-number-of-islands](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
@@ -84,6 +86,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
@@ -197,6 +200,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
