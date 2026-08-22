@@ -23,6 +23,7 @@
 | [0389-find-the-difference](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1544-make-the-string-great](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -141,6 +142,7 @@
 | [0385-mini-parser](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0385-mini-parser/) | Medium |
 | [0735-asteroid-collision](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1544-make-the-string-great/) | Easy |
 ## Design
