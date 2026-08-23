@@ -72,6 +72,7 @@
 | [0495-teemo-attacking](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0495-teemo-attacking/) | Easy |
 | [0542-01-matrix](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0561-array-partition](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
+| [0622-design-circular-queue](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Rabittitan/agorithm/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
@@ -151,12 +152,14 @@
 | [0155-min-stack](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -167,6 +170,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0622-design-circular-queue](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
