@@ -170,6 +170,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0622-design-circular-queue](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -248,6 +249,7 @@
 | [0002-add-two-numbers](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0486-predict-the-winner](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
