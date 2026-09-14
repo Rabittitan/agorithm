@@ -79,6 +79,7 @@
 | [0739-daily-temperatures](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0773-sliding-puzzle](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Hard/0773-sliding-puzzle/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
@@ -97,6 +98,7 @@
 | [0389-find-the-difference](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -207,6 +209,7 @@
 | [0088-merge-sorted-array](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Medium/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rabittitan/agorithm/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Interactive
